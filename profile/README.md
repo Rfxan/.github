@@ -1,75 +1,116 @@
 # Hey there! 👋 Welcome to my GitHub profile
 
-I'm **Rfxan**, a passionate developer working on innovative AI and EdTech solutions. I love building scalable applications and exploring the intersection of artificial intelligence and education.
+I'm **Rfxan**, a passionate full-stack developer working on innovative AI and EdTech solutions. I love building scalable applications and exploring the intersection of artificial intelligence and education technology.
 
 ---
 
 ## 🚀 Featured Projects
 
-### **CommitIQ**
-AI-powered git analytics and insights tool
+### **CommitIQ** 
+*AI-powered Git Analytics & Insights*
 - **Language:** TypeScript
-- **Status:** Active development
-- 📍 [View Repository](https://github.com/Rfxan/CommitIQ)
+- **Status:** Active Development
+- **Description:** Intelligent commit analysis and repository insights tool
+- 📍 [View Repository](https://github.com/Rfxan/CommitIQ) ⭐
 
 ### **Elyaitra SentinelML**
-AI-powered EdTech platform with advanced security monitoring
+*AI-Powered EdTech Platform with Security Monitoring*
 - **Languages:** JavaScript, TypeScript
-- **Description:** Elyaitra SentinelML combines intelligent educational technology with Sentinel security monitoring for a comprehensive learning platform
+- **Status:** Latest Release
+- **Description:** Comprehensive AI-powered educational platform integrated with advanced Sentinel security monitoring
 - 📍 [View Repository](https://github.com/Rfxan/elyaitra-sentinelml)
 
-### **Elyaitra Ecosystem**
-A suite of interconnected tools and services
-- **Elyaitra (Main)** - AI tool for educational purposes
-  - 🌐 [Website](https://www.elyaitra.com/)
-  - 📍 [View Repository](https://github.com/Rfxan/elyaitra)
-  
-- **Elyaitra Main** - Core application framework
-  - 📍 [View Repository](https://github.com/Rfxan/elyaitra-main)
-  
-- **Elyaitra Sentinel** - Security & monitoring layer
-  - 📍 [View Repository](https://github.com/Rfxan/elyaitra-sentinel)
+### **RadiX**
+*Advanced Private Project*
+- **Language:** TypeScript
+- **Status:** Active Development
+- **Description:** High-performance distributed system for real-time data processing and analytics
+- 📍 Private Repository
+
+---
+
+## 🔗 Elyaitra Ecosystem
+
+A comprehensive suite of interconnected AI and EdTech services:
+
+| Project | Language | Purpose |
+|---------|----------|---------|
+| **[Elyaitra](https://github.com/Rfxan/elyaitra)** | TypeScript | Main AI tool for education |
+| **[Elyaitra Main](https://github.com/Rfxan/elyaitra-main)** | TypeScript | Core application framework |
+| **[Elyaitra Sentinel](https://github.com/Rfxan/elyaitra-sentinel)** | JavaScript | Security & monitoring layer |
+
+🌐 **Website:** [elyaitra.com](https://www.elyaitra.com/)
+
+---
+
+## 💼 Private Projects
+
+I also maintain several private repositories focused on:
+- 🔐 Advanced security implementations
+- 🚀 Performance optimization tools
+- 🤖 Machine learning experiments
+- 📊 Data analysis platforms
+- 🛠️ Internal development tools
+
+*Contact me to learn more about my private work or collaboration opportunities!*
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend & Full-Stack:** TypeScript, JavaScript
-- **Architecture:** Microservices, Distributed systems
-- **Focus Areas:** AI/ML, EdTech, Security, Performance optimization
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Current Focus
 
-- Building intelligent systems for education
-- Developing robust security monitoring solutions
-- Creating scalable TypeScript applications
-- Contributing to the EdTech revolution
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rfxan&show_icons=true&theme=dark)
+- 🤖 Building intelligent educational systems
+- 🔐 Developing robust security solutions
+- 📈 Scaling distributed applications
+- 🚀 Contributing to the EdTech revolution
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Overview
 
-- 💼 Check out my repositories to see what I'm building
-- 🌐 Visit [Elyaitra](https://www.elyaitra.com/) to learn more about my main project
-- 📧 Feel free to reach out or collaborate on interesting projects
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rfxan&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Collaborate
+
+- 💬 Interested in AI, EdTech, or security? Let's talk!
+- 🔗 Check out my repositories for production-ready code
+- 📧 Open to partnerships and collaboration opportunities
+- 🌐 Visit [Elyaitra](https://www.elyaitra.com/) to see my main project in action
 
 ---
 
 ## ⚡ Quick Facts
 
-- 🔧 Full-stack developer with a focus on TypeScript
-- 🤖 Passionate about AI and machine learning applications
-- 🎓 Building tools for the education sector
-- 🔐 Interested in security and monitoring solutions
+- 🧑‍💻 Full-stack developer specializing in TypeScript
+- 🤖 Passionate about AI and machine learning applications  
+- 🎓 Building transformative tools for education
+- 🔒 Committed to security and scalability
+- 🚀 Always learning and exploring new technologies
 
 ---
 
 *Last updated: August 24, 2026*
+*Feel free to explore my repositories and reach out for collaboration!*
