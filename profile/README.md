@@ -6,6 +6,13 @@ I'm **Rfxan**, a passionate full-stack developer working on innovative AI and Ed
 
 ## 🚀 Featured Projects
 
+### **InternalPentestingGPT** 
+*AI-Driven Penetration Testing Platform*
+- **Language:** Python
+- **Status:** Active Development
+- **Description:** FastAPI orchestration backend for authorized, isolated Active Directory security labs with LLM-driven autonomous engagement capabilities
+- 📍 Private Repository
+
 ### **CommitIQ** 
 *AI-powered Git Analytics & Insights*
 - **Language:** TypeScript
@@ -45,8 +52,8 @@ A comprehensive suite of interconnected AI and EdTech services:
 
 ## 💼 Private Projects
 
-I also maintain several private repositories focused on:
-- 🔐 Advanced security implementations
+I maintain several private repositories focused on:
+- 🔐 **Cybersecurity & Penetration Testing** - LLM-driven security assessment platforms
 - 🚀 Performance optimization tools
 - 🤖 Machine learning experiments
 - 📊 Data analysis platforms
@@ -80,10 +87,11 @@ I also maintain several private repositories focused on:
 
 ## 🎯 Current Focus
 
-- 🤖 Building intelligent educational systems
-- 🔐 Developing robust security solutions
-- 📈 Scaling distributed applications
-- 🚀 Contributing to the EdTech revolution
+- 🔒 Developing AI-driven cybersecurity and penetration testing solutions
+- 🤖 Building intelligent educational systems with security at the core
+- 🚀 Creating autonomous engagement platforms with LLM integration
+- 📈 Scaling distributed security assessment tools
+- 🛡️ Advancing the intersection of AI, security, and EdTech
 
 ---
 
@@ -95,7 +103,7 @@ I also maintain several private repositories focused on:
 
 ## 🤝 Let's Collaborate
 
-- 💬 Interested in AI, EdTech, or security? Let's talk!
+- 💬 Interested in AI, EdTech, cybersecurity, or security automation? Let's talk!
 - 🔗 Check out my repositories for production-ready code
 - 📧 Open to partnerships and collaboration opportunities
 - 🌐 Visit [Elyaitra](https://www.elyaitra.com/) to see my main project in action
@@ -104,10 +112,10 @@ I also maintain several private repositories focused on:
 
 ## ⚡ Quick Facts
 
-- 🧑‍💻 Full-stack developer specializing in TypeScript
+- 🧑‍💻 Full-stack developer specializing in TypeScript and Python
 - 🤖 Passionate about AI and machine learning applications  
 - 🎓 Building transformative tools for education
-- 🔒 Committed to security and scalability
+- 🔒 Committed to security automation and penetration testing
 - 🚀 Always learning and exploring new technologies
 
 ---
